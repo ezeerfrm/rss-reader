@@ -2,11 +2,10 @@ from django.shortcuts import render, HttpResponse
 
 from .forms import *
 
+from .update import*
 # Create your views here.
 
 
-def test_view(request):
-    return HttpResponse("This si a test")
 
 def add_rss(request):
 
@@ -15,3 +14,7 @@ def add_rss(request):
     if form_add_rss.is_valid():
         form_add_rss.save()
     return render(request, "add_rss.html", locals())
+
+def update_rss(request):
+    recup()
+    return HttpResponse("update_rss")
