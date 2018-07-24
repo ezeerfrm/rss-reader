@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>KrISS Feed</title>
+  </head>
+  <body>
+    <outline text="Twitter">
+      <outline title="@pythonweekly" text="@pythonweekly" description=" " xmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=pythonweekly&amp;format=Atom" htmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=pythonweekly&amp;format=Atom" type="rss"/>
+      <outline title="@sam_et_max" text="@sam_et_max" description=" " xmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=sam_et_max&amp;format=Atom" htmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=sam_et_max&amp;format=Atom" type="rss"/>
+      <outline title="@skywodd" text="@skywodd" description=" " xmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=skywodd&amp;format=Atom" htmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=skywodd&amp;format=Atom" type="rss"/>
+      <outline title="Twitter @gvanrossum" text="Twitter @gvanrossum" description=" " xmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=gvanrossum&amp;format=Atom" htmlUrl="http://5.51.177.66/rss-bridge-master/?action=display&amp;bridge=Twitter&amp;u=gvanrossum&amp;format=Atom" type="rss"/>
+    </outline>
+    <outline text="RaspberryPi">
+      <outline title="Bald EngineerBald Engineer" text="Bald EngineerBald Engineer" description="Electronics Tutorials for Enginerds" xmlUrl="http://feeds.feedburner.com/baldengineer" htmlUrl="https://www.baldengineer.com" type="rss"/>
+      <outline title="Carnet du maker" text="Carnet du maker" description="Derniers articles récents, toutes catégories confondues" xmlUrl="https://www.carnetdumaker.net/articles/flux/" htmlUrl="https://www.carnetdumaker.net/articles/" type="rss"/>
+      <outline title="Frederick Vandenbosch" text="Frederick Vandenbosch" description="Building electronic things" xmlUrl="http://frederickvandenbosch.be/?feed=rss2" htmlUrl="http://frederickvandenbosch.be" type="rss"/>
+      <outline title="http://blog.uggy.org/?" text="http://blog.uggy.org/?" description="http://blog.uggy.org/?" xmlUrl="http://blog.uggy.org/?feed/rss2" htmlUrl="http://blog.uggy.org/?" type="rss"/>
+      <outline title="http://electroniqueamateur.blogspot.com/" text="http://electroniqueamateur.blogspot.com/" description="http://electroniqueamateur.blogspot.com/" xmlUrl="http://feeds.feedburner.com/lectroniqueEnAmateur" htmlUrl="http://electroniqueamateur.blogspot.com/" type="rss"/>
+      <outline title="http://framboisepi.fr/" text="http://framboisepi.fr/" description="http://framboisepi.fr/" xmlUrl="http://framboisepi.fr/feed/" htmlUrl="http://framboisepi.fr/" type="rss"/>
+      <outline title="http://hab.uggy.org/" text="http://hab.uggy.org/" description="http://hab.uggy.org/" xmlUrl="http://hab.uggy.org/feed.php?rss" htmlUrl="http://hab.uggy.org/" type="rss"/>
+      <outline title="http://raspi.tv/" text="http://raspi.tv/" description="http://raspi.tv/" xmlUrl="http://raspi.tv/feed" htmlUrl="http://raspi.tv/" type="rss"/>
+      <outline title="http://www.framboise314.fr/" text="http://www.framboise314.fr/" description="http://www.framboise314.fr/" xmlUrl="http://feeds.feedburner.com/framboise314" htmlUrl="http://www.framboise314.fr/" type="rss"/>
+      <outline title="http://www.magdiblog.fr/" text="http://www.magdiblog.fr/" description="http://www.magdiblog.fr/" xmlUrl="http://www.magdiblog.fr/feed/" htmlUrl="http://www.magdiblog.fr/" type="rss"/>
+      <outline title="http://www.manuel-esteban.com/" text="http://www.manuel-esteban.com/" description="http://www.manuel-esteban.com/" xmlUrl="http://www.manuel-esteban.com/feed/" htmlUrl="http://www.manuel-esteban.com/" type="rss"/>
+      <outline title="http://www.raspberrypi-spy.co.uk/" text="http://www.raspberrypi-spy.co.uk/" description="http://www.raspberrypi-spy.co.uk/" xmlUrl="http://www.raspberrypi-spy.co.uk/feed/" htmlUrl="http://www.raspberrypi-spy.co.uk/" type="rss"/>
+      <outline title="http://www.recantha.co.uk/blog" text="http://www.recantha.co.uk/blog" description="http://www.recantha.co.uk/blog" xmlUrl="http://www.recantha.co.uk/blog/?feed=rss2" htmlUrl="http://www.recantha.co.uk/blog" type="rss"/>
+      <outline title="https://arno0x0x.wordpress.com/" text="https://arno0x0x.wordpress.com/" description="https://arno0x0x.wordpress.com/" xmlUrl="https://arno0x0x.wordpress.com/feed/" htmlUrl="https://arno0x0x.wordpress.com/" type="rss"/>
+      <outline title="https://skyduino.wordpress.com/" text="https://skyduino.wordpress.com/" description="https://skyduino.wordpress.com/" xmlUrl="https://skyduino.wordpress.com/feed/" htmlUrl="https://skyduino.wordpress.com/" type="rss"/>
+      <outline title="https://steftech.wordpress.com/" text="https://steftech.wordpress.com/" description="https://steftech.wordpress.com/" xmlUrl="https://steftech.wordpress.com/feed/" htmlUrl="https://steftech.wordpress.com/" type="rss"/>
+      <outline title="https://thingswemake.com/?source=rss----313c0bd4be7c---4" text="https://thingswemake.com/?source=rss----313c0bd4be7c---4" description="https://thingswemake.com/?source=rss----313c0bd4be7c---4" xmlUrl="http://www.thingswemake.com/feed/" htmlUrl="https://thingswemake.com/?source=rss----313c0bd4be7c---4" type="rss"/>
+      <outline title="https://www.raspberrypi.org/" text="https://www.raspberrypi.org/" description="https://www.raspberrypi.org/" xmlUrl="https://www.raspberrypi.org/feed/" htmlUrl="https://www.raspberrypi.org/" type="rss"/>
+    </outline>
+    <outline text="General">
+      <outline title="Bitten By Python" text="Bitten By Python" description=" " xmlUrl="http://www.bittenbypython.com/feeds/all.rss.xml" htmlUrl="http://www.bittenbypython.com/" type="rss"/>
+      <outline title="Blog – Hackaday" text="Blog – Hackaday" description="Fresh hacks every day" xmlUrl="https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com" type="rss"/>
+      <outline title="CommitStrip" text="CommitStrip" description="The blog relating the daily life of web agency developers" xmlUrl="http://www.commitstrip.com/fr/feed/" htmlUrl="http://www.commitstrip.com" type="rss"/>
+      <outline title="Daniel Hnyk" text="Daniel Hnyk" description="Welcome! This personal blog serves as a sharing platform for my experiences, ideas and projects. It also helps me to manage and achieve my goals. " xmlUrl="http://danielhnyk.cz/rss/" htmlUrl="http://danielhnyk.cz/" type="rss"/>
+      <outline title="http://arstechnica.com/" text="http://arstechnica.com/" description="http://arstechnica.com/" xmlUrl="http://feeds.arstechnica.com/arstechnica/security" htmlUrl="http://arstechnica.com/" type="rss"/>
+      <outline title="http://blog.idleman.fr/" text="http://blog.idleman.fr/" description="http://blog.idleman.fr/" xmlUrl="http://blog.idleman.fr/feed/" htmlUrl="http://blog.idleman.fr/" type="rss"/>
+      <outline title="http://blog.natas.fr/" text="http://blog.natas.fr/" description="http://blog.natas.fr/" xmlUrl="http://blog.natas.fr/feed/" htmlUrl="http://blog.natas.fr/" type="rss"/>
+      <outline title="http://couleur-science.eu/" text="http://couleur-science.eu/" description="http://couleur-science.eu/" xmlUrl="http://couleur-science.eu/rss.php" htmlUrl="http://couleur-science.eu/" type="rss"/>
+      <outline title="http://linuxfr.org/news" text="http://linuxfr.org/news" description="http://linuxfr.org/news" xmlUrl="http://linuxfr.org/news.atom" htmlUrl="http://linuxfr.org/news" type="rss"/>
+      <outline title="http://sebsauvage.net/bon-android/" text="http://sebsauvage.net/bon-android/" description="http://sebsauvage.net/bon-android/" xmlUrl="http://sebsauvage.net/bon-android/rss.php" htmlUrl="http://sebsauvage.net/bon-android/" type="rss"/>
+      <outline title="http://sebsauvage.net/links/" text="http://sebsauvage.net/links/" description="http://sebsauvage.net/links/" xmlUrl="http://sebsauvage.net/links/?do=rss" htmlUrl="http://sebsauvage.net/links/" type="rss"/>
+      <outline title="http://sumitomo-chem-agro.com/" text="http://sumitomo-chem-agro.com/" description="http://sumitomo-chem-agro.com/" xmlUrl="http://sumitomo-chem-agro.com/feed/" htmlUrl="http://sumitomo-chem-agro.com/" type="rss"/>
+      <outline title="http://www.daveakerman.com/" text="http://www.daveakerman.com/" description="http://www.daveakerman.com/" xmlUrl="http://www.daveakerman.com/?feed=rss2" htmlUrl="http://www.daveakerman.com/" type="rss"/>
+      <outline title="http://www.epris-de-justice.info/" text="http://www.epris-de-justice.info/" description="http://www.epris-de-justice.info/" xmlUrl="http://www.epris-de-justice.info/rss/" htmlUrl="http://www.epris-de-justice.info/" type="rss"/>
+      <outline title="http://www.linuxtricks.fr/" text="http://www.linuxtricks.fr/" description="http://www.linuxtricks.fr/" xmlUrl="http://www.linuxtricks.fr/syndication/rss/news/0" htmlUrl="http://www.linuxtricks.fr/" type="rss"/>
+      <outline title="http://www.luc-damas.fr/humeurs" text="http://www.luc-damas.fr/humeurs" description="http://www.luc-damas.fr/humeurs" xmlUrl="http://feeds.feedburner.com/lucdamas/humeurs" htmlUrl="http://www.luc-damas.fr/humeurs" type="rss"/>
+      <outline title="http://www.maitre-eolas.fr/" text="http://www.maitre-eolas.fr/" description="http://www.maitre-eolas.fr/" xmlUrl="http://www.maitre-eolas.fr/feed/atom" htmlUrl="http://www.maitre-eolas.fr/" type="rss"/>
+      <outline title="http://www.oezratty.net/wordpress" text="http://www.oezratty.net/wordpress" description="http://www.oezratty.net/wordpress" xmlUrl="http://www.oezratty.net/wordpress/feed/" htmlUrl="http://www.oezratty.net/wordpress" type="rss"/>
+      <outline title="http://www.semageek.com/" text="http://www.semageek.com/" description="http://www.semageek.com/" xmlUrl="http://feeds.feedburner.com/semageek" htmlUrl="http://www.semageek.com/" type="rss"/>
+      <outline title="http://www.windtopik.fr/" text="http://www.windtopik.fr/" description="http://www.windtopik.fr/" xmlUrl="http://feeds.feedburner.com/Windtopik" htmlUrl="http://www.windtopik.fr/" type="rss"/>
+      <outline title="http://zythom.blogspot.com/" text="http://zythom.blogspot.com/" description="http://zythom.blogspot.com/" xmlUrl="http://zythom.blogspot.com/feeds/posts/default" htmlUrl="http://zythom.blogspot.com/" type="rss"/>
+      <outline title="https://grisebouille.net/" text="https://grisebouille.net/" description="https://grisebouille.net/" xmlUrl="https://grisebouille.net/feed/" htmlUrl="https://grisebouille.net/" type="rss"/>
+      <outline title="https://lehollandaisvolant.net/" text="https://lehollandaisvolant.net/" description="https://lehollandaisvolant.net/" xmlUrl="http://lehollandaisvolant.net/rss.php" htmlUrl="https://lehollandaisvolant.net/" type="rss"/>
+      <outline title="https://ploum.net/" text="https://ploum.net/" description="https://ploum.net/" xmlUrl="https://ploum.net/feed/" htmlUrl="https://ploum.net/" type="rss"/>
+      <outline title="https://www.blog-libre.org/" text="https://www.blog-libre.org/" description="https://www.blog-libre.org/" xmlUrl="https://www.blog-libre.org/feed/" htmlUrl="https://www.blog-libre.org/" type="rss"/>
+      <outline title="https://www.journalduhacker.net/" text="https://www.journalduhacker.net/" description="https://www.journalduhacker.net/" xmlUrl="https://www.journalduhacker.net/rss" htmlUrl="https://www.journalduhacker.net/" type="rss"/>
+      <outline title="https://www.nikopik.com/" text="https://www.nikopik.com/" description="https://www.nikopik.com/" xmlUrl="http://www.nikopik.com/feed" htmlUrl="https://www.nikopik.com/" type="rss"/>
+      <outline title="https://www.wired.com/" text="https://www.wired.com/" description="https://www.wired.com/" xmlUrl="http://www.wired.com/category/threatlevel/feed/" htmlUrl="https://www.wired.com/" type="rss"/>
+      <outline title="Korben" text="Korben" description="Upgrade your mind" xmlUrl="https://korben.info/feed" htmlUrl="https://korben.info" type="rss"/>
+      <outline title="Le Kernel Panique" text="Le Kernel Panique" description="FLOSS and Japan things." xmlUrl="http://lekernelpanique.fr/feed/" htmlUrl="https://www.lekernelpanique.fr" type="rss"/>
+      <outline title="Sam &amp; Max" text="Sam &amp; Max" description="Du code, du cul" xmlUrl="http://sametmax.com/feed/" htmlUrl="http://sametmax.com" type="rss"/>
+      <outline title="The Linux Mint Blog" text="The Linux Mint Blog" description="News from the Mint Team" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="http://blog.linuxmint.com" type="rss"/>
+      <outline title="Tontof" text="Tontof" description="A simple and smart (or stupid) blog" xmlUrl="http://tontof.net/?rss" htmlUrl="http://tontof.net" type="rss"/>
+      <outline title="Towards Data Science - Medium" text="Towards Data Science - Medium" description="Sharing concepts, ideas, and codes. - Medium" xmlUrl="https://towardsdatascience.com/feed" htmlUrl="https://towardsdatascience.com?source=rss----7f60cf5620c9---4" type="rss"/>
+      <outline title="Tu mourras moins bête" text="Tu mourras moins bête" description="Mais tu mourras quand même" xmlUrl="http://tumourrasmoinsbete.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://tumourrasmoinsbete.blogspot.com/" type="rss"/>
+      <outline title="Tuxicoman" text="Tuxicoman" description="La route est longue mais la voie est libre" xmlUrl="https://tuxicoman.jesuislibre.net/feed" htmlUrl="https://tuxicoman.jesuislibre.net" type="rss"/>
+    </outline>
+    <outline text="Impression 3D">
+      <outline title="blog.dagoma.fr" text="blog.dagoma.fr" description="Créateur d'imprimantes 3D" xmlUrl="http://blog.dagoma.fr/feed/" htmlUrl="http://blog.dagoma.fr" type="rss"/>
+      <outline title="Fichier 3D" text="Fichier 3D" description="Le blog sur les modèles 3D et l'impression 3D." xmlUrl="http://fichier3d.fr/feed/" htmlUrl="http://fichier3d.fr" type="rss"/>
+      <outline title="http://www.ludeek.net/" text="http://www.ludeek.net/" description="http://www.ludeek.net/" xmlUrl="http://www.ludeek.net/feed/" htmlUrl="http://www.ludeek.net/" type="rss"/>
+    </outline>
+    <outline text="recherche emploi">
+      <outline title="Indeed Data+Manager" text="Indeed Data+Manager" description="Derniers parutions d emplois" xmlUrl="http://5.51.177.66/recherche_emploi/Data+Manager.xml" htmlUrl="https://www.indeed.fr" type="rss"/>
+      <outline title="Indeed Data+Scientist" text="Indeed Data+Scientist" description="Derniers parutions d emplois" xmlUrl="http://5.51.177.66/recherche_emploi/Data+Scientist.xml" htmlUrl="https://www.indeed.fr" type="rss"/>
+      <outline title="Indeed python" text="Indeed python" description="Derniers parutions d emplois" xmlUrl="http://5.51.177.66/recherche_emploi/python.xml" htmlUrl="https://www.indeed.fr" type="rss"/>
+    </outline>
+  </body>
+</opml>
