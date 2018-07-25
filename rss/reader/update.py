@@ -1,7 +1,7 @@
 from .parser import Recup_rss
 
+import sys
+def recup(lien):
 
-def recup():
-    print('ok')
-    test = Recup_rss("http://blog.idleman.fr/feed/" )
-    print(test.liste_articles)
+    test = Recup_rss(lien)
+    print(str(test.liste_articles).encode(sys.stdout.encoding, errors='replace'))

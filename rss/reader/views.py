@@ -1,8 +1,8 @@
 from django.shortcuts import render, HttpResponse
 
 from .forms import *
-
-from .update import*
+from .models import *
+from .update import *
 # Create your views here.
 
 
@@ -16,5 +16,7 @@ def add_rss(request):
     return render(request, "add_rss.html", locals())
 
 def update_rss(request):
-    recup()
+    for i in Rss_a_suivre.objects.values('lien') : 
+        print(i['lien'])
+        recup(i['lien'])
     return HttpResponse("update_rss")
