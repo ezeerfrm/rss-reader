@@ -7,4 +7,5 @@ urlpatterns = [
 
  path('add_rss', add_rss),
  path('update', update_rss),
+ path('lecture', lecture),
 ]

@@ -1,0 +1,11 @@
+
+
+{% for i in articles %}
+   <p> 
+       
+        <br> {{i.origine.nom}}
+        <br> {{i.title}}
+    <br>{{i.pubDate}}
+    <br> <a href =  {{i.lien}}>Lien vers l'article </a>
+   </p>
+{% endfor %}

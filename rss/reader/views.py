@@ -20,3 +20,7 @@ def update_rss(request):
         print(i['lien'])
         recup(i['lien'])
     return HttpResponse("update_rss")
+
+def lecture(request):
+    articles = Articles.objects.all().order_by('origine', 'pubDate')
+    return render(request, 'lecture.html', locals())
