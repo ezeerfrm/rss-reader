@@ -15,5 +15,7 @@ class Articles  (models.Model):
     title = models.CharField(max_length = 1000)
     pubDate = models.DateField()
     description = models.TextField()
-    content = models.TextField()
+    content = models.TextField(blank = True)
     starred = models.BooleanField(default = False)
+    lu  = models.BooleanField(default = False)
+    lien = models.URLField(default ='',max_length=1000)
