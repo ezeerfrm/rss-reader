@@ -21,6 +21,8 @@ def recup(lien_rss):
 
             description_article = i.get('description', 'pas de description')
 
+            
+
             if description_article == None:
                 description_article =  'pas de description'
 

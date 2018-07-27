@@ -1,11 +1,61 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1> {{titre}} </h1>
+
 
 
 {% for i in articles %}
-   <p> 
+   <div class = "cache" style = "border-bottom-style: inset;"> 
        
         <br> {{i.origine.nom}}
         <br> {{i.title}}
-    <br>{{i.pubDate}}
-    <br> <a href =  {{i.lien}}>Lien vers l'article </a>
-   </p>
+        <br>{{i.pubDate}}
+        <br>  <button class = "show_desc">Description</button> <div class="description" style="display: none;"> {{i.description|safe}}</div>
+        <br> <a target="_blank" rel="noopener noreferrer" href =  {{i.lien}}>Lien vers l'article </a>
+    
+        <br> <button class = "lu" id =  {{i.lien}}>Lu</button>
+        {% if titre == "Lecture" %}
+        <button class = "star" id =  {{i.lien}}>Star</button>
+        {% endif %}
+
+        {% if titre == "Favoris" %}
+        <button class = "unstar" id =  {{i.lien}}>Unstar</button>
+        {% endif %}
+
+   </div>
 {% endfor %}
+
+<script>
+$(document).ready(function(){
+    $(".lu").click(function(){
+        $(this).closest(".cache").hide();
+        var id_element;
+        id_element = $(this).attr('id');
+        $.get("./lecture?id_lu=" + id_element); 
+    });
+
+        $(".star").click(function(){
+       
+        var id_element;
+        id_element = $(this).attr('id');
+        $.get("./lecture?id_star=" + id_element); 
+    });
+
+        $(".unstar").click(function(){
+       
+       var id_element;
+       id_element = $(this).attr('id');
+       $.get("./lecture?id_unstar=" + id_element); 
+   });
+
+
+
+        $(".show_desc").click(function(){
+            $(this).next(".description").slideDown();
+   });
+
+});
+    </script>
+
+{% endblock %}
